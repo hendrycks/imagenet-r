@@ -4,3 +4,6 @@ ImageNet-R(endition) contains art, cartoons, deviantart, graffiti, embroidery, g
 ImageNet-R has renditions of 200 ImageNet classes resulting in 30,000 images.
 
 __[Download ImageNet-R here](https://people.eecs.berkeley.edu/~hendrycks/imagenet-r.tar).__
+
+<img align="center" src="yes.jpg" width="800">
+<img align="center" src="no.jpg" width="800">
