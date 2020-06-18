@@ -7,3 +7,14 @@ __[Download ImageNet-R here](https://people.eecs.berkeley.edu/~hendrycks/imagene
 
 <img align="center" src="yes.jpg" width="800">
 <img align="center" src="no.jpg" width="800">
+
+## Citation
+
+If you find this useful in your research, please consider citing:
+
+    @article{hendrycks2020many,
+      title={The Many Faces of Robustness: A Rigorous Evaluation of Realistic Distribution Shifts},
+      author={Dan Hendrycks and Steven Basart and Norman Mu and Saurav Kadavath and Frank Wang and Evan Dorundo and Rahul Desai and Tyler Zhu and Samyak Parajuli and Mike Guo and Dawn Song and Jacob Steinhardt and Justin Gilmer},
+      journal={arXiv},
+      year={2020}
+    }
