@@ -1,6 +1,12 @@
-# DeepAugment Files
+# DeepAugment
+
+<img align="center" src="deepaugment.png" width="800">
+
+## DeepAugment Files
 
 Here is an overview of the files needed to create ImageNet training data augmented with DeepAugment.
+Alternatively, you can download our [EDSR](https://drive.google.com/file/d/1Ij_D3LuHWI4_WOlsg6dJMAPKEu10g47_/view?usp=sharing) and [CAE](https://drive.google.com/file/d/1xN9Z7pZ2GNwRww7j8ClPnPNwOc12VsM5/view?usp=sharing) images directly.
+
 
 ## Create Datasets
  - `EDSR_distort_imagenet.py`: Creates a distorted version of ImageNet using EDSR (https://arxiv.org/abs/1707.02921)
