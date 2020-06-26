@@ -10,7 +10,17 @@ __[Download ImageNet-R here](https://people.eecs.berkeley.edu/~hendrycks/imagene
 
 # Other Resources
 This repository also contains code for DeepAugment and DeepFashion Remixed experiments.
+
 Additionally, Real Blurry Images are available for download [here](https://people.eecs.berkeley.edu/~hendrycks/blurry_images.tar).
+
+Weights for a ResNet-50 ImageNet classifier trained with DeepAugment are available
+[here](https://drive.google.com/file/d/1DPRElQnBG66nd7GUphVm1t-5NroL7t7k/view?usp=sharing).
+
+Weights for a ResNet-50 ImageNet classifier trained with DeepAugment+AugMix are available
+[here](https://drive.google.com/file/d/14iJjRKnRsx2SfoHQ7qrWif8Fd8aXgD6b/view?usp=sharing).
+
+Weights for a ResNeXt-101 (32x8d) ImageNet classifier trained with DeepAugment+AugMix are available
+[here](https://drive.google.com/file/d/1U71SoHQjAkOOte4Uc0A4nh1JzRf9Ec8C/view?usp=sharing).
 
 ## Citation
 
