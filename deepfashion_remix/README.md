@@ -1,4 +1,4 @@
-# DeepFashion2 Remix
+# DeepFashion2 Remixed
 
 Code used to reproduce the results in [The Many Faces of Robustness](arxiv.com).
 
