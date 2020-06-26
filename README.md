@@ -8,6 +8,10 @@ __[Download ImageNet-R here](https://people.eecs.berkeley.edu/~hendrycks/imagene
 <img align="center" src="yes.jpg" width="800">
 <img align="center" src="no.jpg" width="800">
 
+# Other Resources
+This repository also contains code for DeepAugment and DeepFashion Remixed experiments.
+Additionally, Real Blurry Images are available for download [here](https://people.eecs.berkeley.edu/~hendrycks/blurry_images.tar).
+
 ## Citation
 
 If you find this useful in your research, please consider citing:
