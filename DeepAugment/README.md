@@ -26,4 +26,5 @@ You will need to change the save path and original ImageNet train set path.
 In addition to EDSR and CAE, the DeepAugment approach works with randomly sampled architectures. We call an example [Noise2Net](https://openreview.net/pdf?id=o20_NVA92tK#page=20), which can generate augmentations in memory and in parallel. See the code above.
 
 [ResNet-50 + DeepAugment (Noise2Net)](https://drive.google.com/file/d/1TlylFp-hJ5ENUNdjGBf-tLPoIIcJyPG4/view?usp=sharing)
+
 [ResNeXt-101 + AugMix + DeepAugment (Noise2Net, EDSR, CAE)](https://drive.google.com/file/d/1dJoYMma4uZwT-wLzk4Teh8dKqCVz7Tlx/view?usp=sharing)
